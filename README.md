@@ -1,7 +1,7 @@
 # Monster Game
  Monster Game is a modern web game built using latest Javascript(ES6).
  
-## Visit Project Planner
+## Visit Game
 * [Click Here](https://monster-game-js.netlify.app/)
 
 ## Getting Started
